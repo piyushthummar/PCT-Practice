@@ -68,6 +68,10 @@ public class BasicBeaverageSizing {
 		{
 			System.out.println(item.getName() + " " + item.getBeverageType() + " " + item.getCupSize() + " " + item.getAge() + " " + item.getHeightFeet() + " " + item.getHeightInch());
 		}
+		
+		AdvancedBeverageSizing abs = new AdvancedBeverageSizing();
+		abs.sortedList(customerList);
+		
 	}
 	
 	public static void determineCupSize(CustomerInfo customer, int[] limit)

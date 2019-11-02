@@ -1,0 +1,22 @@
+Input Example For Beverage-Sizing Problem
+
+25 50 75
+3
+Charles 29 5 0
+Adam 56 6 3
+Bob  11 4 6
+
+
+Output for above Input is : 
+
+Charles Beer Small 29 5 0
+Adam Beer Medium 56 6 3
+Bob Water Small 11 4 6
+
+
+Input-2:
+20 30 50 
+3
+Zack 29 5 0
+Pitter 56 6 3
+Bob  11 4 6

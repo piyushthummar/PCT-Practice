@@ -3,6 +3,8 @@
  */
 package com.piyush.beaverageSizing;
 
+import java.util.Comparator;
+
 /**
  * @author PIYUSH
  *
@@ -66,5 +68,9 @@ public class CustomerInfo {
 	public void setCupSize(String cupSize) {
 		this.cupSize = cupSize;
 	}
+	
+	
+
+	
 	
 }
