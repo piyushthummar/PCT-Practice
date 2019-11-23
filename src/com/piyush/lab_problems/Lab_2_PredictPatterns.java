@@ -5,6 +5,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+// Still this program can be generalized for special characters other than '.',',' and ' ' 
+// Example : '@' or '$' etc.
+
 public class Lab_2_PredictPatterns {
 
 	public static void main(String[] args) {
